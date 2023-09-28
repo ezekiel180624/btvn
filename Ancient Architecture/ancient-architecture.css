@@ -1,0 +1,61 @@
+.tong {
+    Width: 1500px;
+    background: #e2d7aa;
+    color: #000000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tong .tren .navigation ul li {
+    display: inline;
+    font-size: 28px;
+    margin: 30px;
+    color: #000000;
+}
+
+.tong .tren .td h1 {
+    font-size: 60px;
+    margin-top: 65px;
+}
+
+.l {
+    font-weight: bolder;
+}
+
+.tong .tren img {
+    width: 900px;
+    height: 450px;
+    margin-top: 50px;
+}
+
+.tong .giua .td1 ul li {
+    display: inline;
+    margin: 130px;
+    color: #0a2d4a;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.tong .giua img {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.tong .giua .nd p {
+    display: inline;
+}
+
+.p1 {
+    float: left;
+}
+
+.p3 {
+    float: right;
+}
+
+.duoi h2 {
+    Margin: 0px;
+    Padding: 10px 0 10px 0;
+    text-align: center;
+}

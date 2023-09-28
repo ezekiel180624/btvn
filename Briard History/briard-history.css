@@ -1,0 +1,68 @@
+.tong {
+    Width: 800px;
+    Padding: 20px;
+    text-align: center;
+}
+
+.tong .duoi img {
+    Width: 200px;
+    Float: Left;
+    Margin-right: 20px;
+}
+
+p {
+    margin-top: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    Line-Height: 30px;
+    Color: #665544;
+}
+
+ul {
+    Color: #665544;
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-style: italic;
+}
+
+.tong .duoi a {
+    font-size: 3.8rem;
+    font-family: vv;
+}
+
+.tong .tren h1 h2 h3 a {
+    Font-Style: Normal;
+    Margin: 0;
+    font-size: 2.1rem;
+    text-align: center;
+}
+
+h1 {
+    Font-Family: Georgia, Times, serif;
+    font-Size: 3.5rem;
+    text-shadow: 2px 4px 4px #666666;
+    Padding-bottom: 10px;
+    color: #0088dd;
+}
+
+h2 {
+    Font-Family: Arial, sans-serif;
+    font-size: 2.3rem;
+    text-transform: capitalize;
+    letter-spacing: 0.3rem;
+    color: #0088dd;
+}
+
+h3 a {
+    Font-Family: Georgia, Times, serif;
+    font-Size: 2rem;
+    text-decoration: none;
+    color: #0088dd;
+}
+
+@font-face {
+    font-family: vv;
+    src: url(Lobster-Regular.ttf);
+}
