@@ -1,0 +1,91 @@
+/* Reset default margin and padding */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Body styles */
+
+body {
+    font-family: 'Lato', sans-serif;
+    background: red;
+    font-size: 16px;
+    width: 1180px;
+}
+
+
+/* Section styles */
+
+.tong {
+    text-align: center;
+}
+
+
+/* Article styles */
+
+article {
+    background: #262626;
+    display: inline-block;
+    border: 5px solid #424242;
+    margin: 80px 20px 0 20px;
+    color: #a1a1a1;
+}
+
+
+/* Article h1 styles */
+
+article h1 {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+article a {
+    font-size: 16px;
+    color: #fff;
+}
+
+
+/* Paragraph with class "price" styles */
+
+p.price {
+    font-size: 3em;
+    font-weight: bold;
+    color: #27dcc4;
+}
+
+
+/* Unordered list styles */
+
+ul {
+    padding: 0;
+}
+
+
+/* Button styles */
+
+button {
+    background: #27dcc4;
+    color: #fff;
+    padding: 15px 30px;
+    margin: 10px 0;
+    font-size: 0.9em;
+    cursor: pointer;
+    border: none;
+}
+
+
+/* Button hover styles */
+
+button:hover {
+    background: #ACACAC;
+}
+
+
+/* List item styles */
+
+li {
+    list-style-type: none;
+    padding: 5px 0;
+}
