@@ -1,0 +1,48 @@
+/* Define the border for table, td, tr, and th */
+
+table,
+td,
+tr,
+th {
+    border: 1px solid #000000;
+}
+
+
+/* Style the table heading */
+
+thead th {
+    text-align: center;
+    font-weight: bold;
+}
+
+
+/* Style the bold text */
+
+td.bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+/* Style the footer text */
+
+td.result {
+    width: 400px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+
+/* Add padding to table data cells */
+
+td {
+    padding-left: 5px;
+}
+
+
+/* Optional: Add some basic styling for the entire page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}

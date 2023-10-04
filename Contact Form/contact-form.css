@@ -1,0 +1,75 @@
+.tong {
+    background: #F7F7F7;
+    Width: 600px;
+    margin: 100px auto 0;
+    Padding: 60px 60px 60px 60px;
+    position: relative;
+    color: #888;
+    border: 2px solid burlywood;
+}
+
+.tong .td h1 {
+    position: absolute;
+    top: -18px;
+    left: 80px;
+}
+
+h2 {
+    position: absolute;
+    top: 12px;
+    left: 45px;
+    padding-top: 10px;
+}
+
+.tong .nd {
+    padding-top: 45px;
+}
+
+h3 {
+    padding: 15px;
+}
+
+.dien {
+    margin: 5px;
+    padding: 8px;
+    margin-left: 109px;
+}
+
+.d1 {
+    position: absolute;
+    top: 129px;
+    left: 71px;
+}
+
+.d2 {
+    position: absolute;
+    left: 71px;
+    top: 200px;
+}
+
+.d3 {
+    position: absolute;
+    left: 71px;
+    top: 271px;
+}
+
+.d4 {
+    position: absolute;
+    left: 71px;
+    top: 342px;
+}
+
+.nutnhan {
+    width: 253px;
+    height: 35px;
+    position: absolute;
+    left: 124px;
+    top: 402px;
+    background: #E27575;
+    color: #fff;
+    border: none;
+}
+
+.nutnhan:hover {
+    background: #ACACAC;
+}

@@ -1,0 +1,30 @@
+body {
+    width: 1000;
+    padding-top: 10px;
+}
+
+.tong {
+    width: 300px;
+    color: #2D2D2D;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.tong .td h2 {
+    position: absolute;
+    top: -35px;
+    left: 10px;
+    background: white;
+}
+
+h3 {
+    margin-left: 5px;
+}
+
+input {
+    margin-left: 5px;
+    margin: 5px;
+    padding: 8px;
+}
